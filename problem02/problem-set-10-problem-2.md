@@ -13,8 +13,8 @@
 
 Given this list of strings:
 
-```
-students = "Bruce,Dave,Tim,Carter,Sam,Becky,Gayle,Timmy,Jack,Nick"
+```Python
+students = 'Bruce,Dave,Tim,Carter,Sam,Becky,Gayle,Timmy,Jack,Nick'
 ```
 
 Given the above statement, write a program that:

@@ -19,4 +19,4 @@ Write a program that asks a user to enter a series of 18 numbers and stores the 
 - The highest number in the list
 - The lowest number in the list
 
-**Hints will be given in class**.
+**Ask for more hints on Slack #questions**.
