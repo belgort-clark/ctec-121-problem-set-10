@@ -8,11 +8,11 @@ This repository contains 5 folders. One for each problem.
 
 This assignment contains 5 problems. Each problem is in a separate folder and has it's own readme.md file.
 
-- [Problem 1](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem01) is worth 25 points
-- [Problem 2](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem02) is worth 25 points
-- [Problem 3](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem03) is worth 25 points
-- [Problem 4](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem04) is worth 25 points
-- [Problem 5](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem05) is worth 25 points
+- [Problem 1](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem01) is worth 20 points
+- [Problem 2](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem02) is worth 20 points
+- [Problem 3](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem03) is worth 20 points
+- [Problem 4](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem04) is worth 20 points
+- [Problem 5](https://github.com/belgort-clark/ctec-121-problem-set-10/tree/master/problem05) is worth 20 points
 
 ## Instructions
 
